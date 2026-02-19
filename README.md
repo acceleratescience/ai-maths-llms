@@ -28,7 +28,7 @@
   </a>
 
   <h2 align="center">An Introduction to LLMs</h2>
-  <h3 align="center">Accelerate Winter School for AI</h3>
+  <h3 align="center">AI x Mathematics 2026 - ICMS</h3>
 
   <p align="justify">
     An introduction to large language models for scientific research - a practical introduction to using models.
