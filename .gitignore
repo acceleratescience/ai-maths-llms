@@ -14,3 +14,6 @@ wheels/
 
 # PyCharm
 .idea/
+
+# Planning folder
+planning/
